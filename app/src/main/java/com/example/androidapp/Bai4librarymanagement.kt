@@ -1,4 +1,4 @@
-package com.example.androidapp.ui.theme
+package com.example.androidapp
 
 enum class BookCategory {
     TECHNOLOGY, SCIENCE, BUSINESS
